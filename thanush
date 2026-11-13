@@ -1,0 +1,4 @@
+name = intput("enter your name:")
+print("hello",name)
+print("welcome to github!")
+print("I am learning python.")
